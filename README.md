@@ -1,7 +1,7 @@
-Hello, My name is NatekSve
+Hello, My name is *NatekSve*
 =================================================================================================================================
 
-Python Programmer
+Cool Programmer
 ---------------------
 
 i like coding, and using my creativity. Im from Poland.
@@ -11,6 +11,7 @@ i like coding, and using my creativity. Im from Poland.
 * 🌱 Learning Batch
 * 📂 Im familiar with a lot of Python libraries. (Tkinter, Turtle, Arcade, etc...)
 * 🟧 Basic blender animating/modeling knowledge.
+* 🤖 Beginner GDscript Programmer
 
 
 <p align="left">
@@ -26,7 +27,12 @@ i like coding, and using my creativity. Im from Poland.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg"
          alt="Blender" title="Blender" width="36" height="36" />
   </a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=godot"
+         alt="Godot" title="Godot Engine" width="36" height="36" />
+  </a>
 </p>
+
 
 ### Socials
 
