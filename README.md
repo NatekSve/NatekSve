@@ -10,9 +10,22 @@ i like coding, and using my creativity. Im from Poland.
 * 🐍 Beginner Python Programmer
 * 🌱 Learning Batch
 * 📂 Im familiar with a lot of Python libraries. (Tkinter, Turtle, Arcade, etc...)
+* 🟧 Basic blender animating/modeling knowledge.
+
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
+         alt="Python" title="Python" width="36" height="36" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg"
+         alt="VS Code" title="VS Code" width="36" height="36" />
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg"
+         alt="Blender" title="Blender" width="36" height="36" />
+  </a>
 </p>
 
 ### Socials
