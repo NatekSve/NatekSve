@@ -1,6 +1,5 @@
 Hello, My name is *NatekSve*
 =================================================================================================================================
-
 Cool Programmer
 ---------------------
 
@@ -13,6 +12,7 @@ i like coding, and using my creativity. Im from Poland.
 * 🟧 Basic blender animating/modeling knowledge.
 * 🤖 Beginner GDscript Programmer
 
+https://nateksve.itch.io/
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -49,5 +49,4 @@ i like coding, and using my creativity. Im from Poland.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NatekSve&icon=0&color=3)](https://visitcount.itsvg.in)
-
 
