@@ -10,7 +10,7 @@ i like coding, and using my creativity. Im from Poland.
 * 🌱 Learning Batch
 * 📂 Im familiar with a lot of Python libraries. (Tkinter, Turtle, Arcade, etc...)
 * 🟧 Basic blender animating/modeling knowledge.
-* 🤖 Beginner GDscript Programmer
+* 🤖 Intermediate GDscript Programmer
 
 https://nateksve.itch.io/
 
